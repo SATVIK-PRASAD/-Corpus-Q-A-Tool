@@ -1,4 +1,4 @@
-# -Corpus-Q-A-Tool
+# Corpus-Q-A-Tool
 
 Assignment 7: Corpus Q&A Tool
 
